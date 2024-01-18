@@ -1,0 +1,49 @@
+.list-item {
+  width: 300px;
+  height: 120px;
+  border: 1px solid #b5b7c4;
+  padding-top: 2px;
+  padding-left: 7px;
+  border-radius: 7px;
+  padding-right: 7px;
+  padding-bottom: 8px;
+  margin-right: 40px;
+}
+
+@media screen and (max-width: 768px) {
+  .list-item {
+    margin-bottom: 30px;
+  }
+}
+
+.appointment-card {
+  display: flex;
+  justify-content: space-between;
+}
+
+.unfilled-star-img {
+  width: 27px;
+  height: 27px;
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+.title {
+  color: black;
+  font-weight: 600;
+  font-size: 19px;
+  font-weight: 500;
+}
+
+.date-content {
+  color: #b5b7c4;
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.star-btn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
