@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this project, let's build an **Appointments App** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
@@ -145,3 +146,6 @@ Use these files to complete the implementation:
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
 # appointmentapp
+=======
+# charanappointmentapp
+>>>>>>> df95480cdd0a1c3e5d002d8fe8b4140923fb2c69
